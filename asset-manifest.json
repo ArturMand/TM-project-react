@@ -1,13 +1,18 @@
 {
   "files": {
-    "main.css": "/react-homework-template/static/css/main.7acaea2f.css",
-    "main.js": "/react-homework-template/static/js/main.07d3183d.js",
-    "index.html": "/react-homework-template/index.html",
-    "main.7acaea2f.css.map": "/react-homework-template/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/react-homework-template/static/js/main.07d3183d.js.map"
+    "main.css": "/team-project-react/static/css/main.0927fff2.css",
+    "main.js": "/team-project-react/static/js/main.ae83f44e.js",
+    "static/media/Circe-Regular.ttf": "/team-project-react/static/media/Circe-Regular.f80cf2f1a50fc5107f4c.ttf",
+    "static/media/Circe-Bold.ttf": "/team-project-react/static/media/Circe-Bold.d9332714c66b14bb30e5.ttf",
+    "static/media/bg-image.png": "/team-project-react/static/media/bg-image.3af63bcd820f2228424c.png",
+    "static/media/Logo.svg": "/team-project-react/static/media/Logo.d7adee0ab11608d013165fe6f2dc76e8.svg",
+    "index.html": "/team-project-react/index.html",
+    "static/media/close.svg": "/team-project-react/static/media/close.4ca60f1813426122dabf98a3268fb691.svg",
+    "main.0927fff2.css.map": "/team-project-react/static/css/main.0927fff2.css.map",
+    "main.ae83f44e.js.map": "/team-project-react/static/js/main.ae83f44e.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.0927fff2.css",
+    "static/js/main.ae83f44e.js"
   ]
 }
