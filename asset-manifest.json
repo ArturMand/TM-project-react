@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/team-project-react/static/css/main.d0b6fb74.css",
-    "main.js": "/team-project-react/static/js/main.1b78a0de.js",
+    "main.css": "/team-project-react/static/css/main.507f348f.css",
+    "main.js": "/team-project-react/static/js/main.5819939b.js",
     "static/media/Circe-Regular.ttf": "/team-project-react/static/media/Circe-Regular.f80cf2f1a50fc5107f4c.ttf",
     "static/media/Circe-Bold.ttf": "/team-project-react/static/media/Circe-Bold.d9332714c66b14bb30e5.ttf",
     "static/media/bg-image.png": "/team-project-react/static/media/bg-image.3af63bcd820f2228424c.png",
     "static/media/Logo.svg": "/team-project-react/static/media/Logo.d7adee0ab11608d013165fe6f2dc76e8.svg",
     "static/media/IconStatisticsMobile.svg": "/team-project-react/static/media/IconStatisticsMobile.910aaa61eb51eef96ffc2da4afc91b69.svg",
     "static/media/IconStatistics.svg": "/team-project-react/static/media/IconStatistics.104f75e333cfc7103d67dff96d8a5147.svg",
+    "static/media/transaction-modal-open.svg": "/team-project-react/static/media/transaction-modal-open.c91caba810b5744706dca694c1854b2d.svg",
     "static/media/IconCurrencyMobile.svg": "/team-project-react/static/media/IconCurrencyMobile.36f2a4f1196561c1881ac5a1a1e19cb5.svg",
+    "static/media/expense-type.svg": "/team-project-react/static/media/expense-type.f01bdfed955bb4daf4c10778fd7039e9.svg",
     "index.html": "/team-project-react/index.html",
     "static/media/IconHomeMobile.svg": "/team-project-react/static/media/IconHomeMobile.7bb7687f8c8e2af95acaec211ef60ddc.svg",
     "static/media/IconHome.svg": "/team-project-react/static/media/IconHome.27bed7c3fdedc7441fc266a1eb756e4f.svg",
     "static/media/close.svg": "/team-project-react/static/media/close.4ca60f1813426122dabf98a3268fb691.svg",
-    "main.d0b6fb74.css.map": "/team-project-react/static/css/main.d0b6fb74.css.map",
-    "main.1b78a0de.js.map": "/team-project-react/static/js/main.1b78a0de.js.map"
+    "main.507f348f.css.map": "/team-project-react/static/css/main.507f348f.css.map",
+    "main.5819939b.js.map": "/team-project-react/static/js/main.5819939b.js.map"
   },
   "entrypoints": [
-    "static/css/main.d0b6fb74.css",
-    "static/js/main.1b78a0de.js"
+    "static/css/main.507f348f.css",
+    "static/js/main.5819939b.js"
   ]
 }
