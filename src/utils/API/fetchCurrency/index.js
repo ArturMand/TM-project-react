@@ -1,1 +1,1 @@
-export { default } from "./fetchCurrency";
+export { default } from "../../../redux/Currency/operation/CurrencyOperation";
