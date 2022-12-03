@@ -8,6 +8,7 @@ import {
   StyledLinkMob,
   Text,
 } from './Navigation.styled';
+import Currency from '../Currency/Currency'
 export const Navigation = () => {
   return (
     <>
@@ -28,6 +29,7 @@ export const Navigation = () => {
           </NavStyled>
         </StyledLink>
         <Balance />
+        <Currency/>
       </Nav>
       <DivMob>
         <StyledLinkMob to="/home">

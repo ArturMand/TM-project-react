@@ -20,7 +20,7 @@ function Currency() {
       try {
         const data = await fetchCurrency();
         const sliced = data.slice(0, 3);
-      
+        console.log(data);
         setCurrency(sliced);
       } catch (error) {
         console.log(error);
@@ -77,3 +77,25 @@ function Currency() {
 }
 
 export default Currency;
+
+//  <ul className={scss.list}>
+//                 <li className={scss.item}>
+//                     <span className={scss.title}>Currency</span>
+//                     <span className={scss.currency}>USD</span>
+//                     <span className={scss.currency}>EUR</span>
+//                     <span className={scss.currency}>RUB</span>
+
+//                 </li>
+//                 <li className={scss.item}>
+//                     <span className={scss.title}>Purchase</span>
+//                     <span className={scss.currency}>{USD}</span>
+//                     <span className={scss.currency}>{EUR}</span>
+//                     <span className={scss.currency}>{RUB}</span>
+//                 </li>
+//                 <li className={scss.item}>
+//                     <span className={scss.title}>Sale</span>
+//                     <span className={scss.currency}>{USD}</span>
+//                     <span className={scss.currency}>{EUR}</span>
+//                     <span className={s.currency}>{RUB}</span>
+//                 </li>
+//           </ul>

@@ -4,6 +4,9 @@
   "private": true,
   "homepage": "https://arturmand.github.io/team-project-react/",
   "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@mui/material": "^5.10.16",
     "@reduxjs/toolkit": "^1.9.0",
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
@@ -25,6 +28,7 @@
     "react-scripts": "5.0.1",
     "react-toastify": "^9.1.1",
     "redux-persist": "^6.0.0",
+    "sass": "^1.56.1",
     "styled-components": "^5.3.6",
     "styled-system": "^5.1.5",
     "web-vitals": "^2.1.3",
