@@ -1,9 +1,29 @@
 import { NavLink } from 'react-router-dom';
 import styled from 'styled-components';
 import { breakpoints } from '../../utils/sizes';
+import backgroundImage from '../../img/bg-image.png';
+
+export const Wrapper = styled.div`
+  @media ${breakpoints.desktop} {
+    display: flex;
+  }
+  background-image: url(${backgroundImage});
+  background-size: cover;
+  background-repeat: no-repeat;
+`;
 
 export const MainDiv = styled.div`
+  @media ${breakpoints.minTablet} {
+    min-width: 768px;
+  }
+  @media ${breakpoints.desktop} {
+    min-width: 480px;
+  }
   display: inline-block;
+  border: none;
+  border-right: 1px solid #e7e5f2;
+  box-shadow: -1px 0px 0px rgba(0, 0, 0, 0.05),
+    1px 0px 0px rgba(255, 255, 255, 0.6);
 `;
 
 export const Nav = styled.nav`
@@ -58,12 +78,10 @@ export const DivMob = styled.div`
   justify-content: space-evenly;
   margin-bottom: 15px;
   @media ${breakpoints.minTablet} {
-    display: none;
   }
 `;
 
 export const StyledLinkMob = styled(NavLink)`
-  text-decoration: none;
   &.active img {
     opacity: 1;
     filter: drop-shadow(0px 3px 10px rgba(74, 86, 226, 0.5));
